@@ -1,0 +1,9 @@
+.post {
+  width: 100%;
+  display: block;
+
+  img {
+    object-fit: cover;
+    width: inherit;
+  }
+}
